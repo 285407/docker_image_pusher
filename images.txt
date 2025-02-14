@@ -1,3 +1,4 @@
+285407/xray-socks5:latest
 285407/xray-socks:latest
 285407/xray-http:latest
 285407/xray-ssr:latest
